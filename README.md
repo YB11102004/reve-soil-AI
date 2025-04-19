@@ -26,7 +26,6 @@ Clone the repository and install dependencies:
 ```sh
  git clone https://github.com/your-repo-link.git
  cd soil-nutrient-prediction
- pip install -r requirements.txt
 ```
 
 ## 📈 Results & Insights
