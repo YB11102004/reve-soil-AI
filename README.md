@@ -17,7 +17,7 @@ The dataset includes:
 
 ## 🏗 Model Architecture
 The model is based on a **Transformer Encoder**, which processes spectral features and predicts the soil pH level. The key components include:
-- **Embedding Layer**: Converts input features into high-dimensional space.
+- **Embedding Layer**: Converts input features into a high-dimensional space.
 - **Transformer Encoder**: Captures feature relationships.
 - **Regression Head**: Outputs the final pH prediction.
 
@@ -27,12 +27,6 @@ Clone the repository and install dependencies:
  git clone https://github.com/your-repo-link.git
  cd soil-nutrient-prediction
  pip install -r requirements.txt
-```
-
-## 📊 Training & Evaluation
-To train and evaluate the model, run:
-```sh
-python train.py
 ```
 
 ## 📈 Results & Insights
